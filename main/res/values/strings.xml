@@ -1,0 +1,12 @@
+<resources>
+    <string name="Maideasy....">Maideasy....</string>
+    <string name="line_2">Hire maid online</string>
+    <string name="line_3">Register Name</string>
+    <string name="line_5">Phone number</string>
+    <string name="line_7">Otp</string>
+    <string name="line_8">New Password</string>
+    <string name="line_9">**********</string>
+    <string name="line_10">Conform Password</string>
+    <string name="line_11">Submit</string>
+
+</resources>
